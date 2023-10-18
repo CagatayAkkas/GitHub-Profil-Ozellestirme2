@@ -1,7 +1,7 @@
 Adımlar:
 1)Baloncuk adında bir repo oluştur. 
 Eğer Repon private ise: profile-> settings-> Public Profile-> Include private contributions on my profile
-2)Reponun içine: /.github/workflows/main.yml dosyası (buradaki "/" ların anlamı yeni klasör oluşturmak. Yani son durumda Baloncuk reponun içinde .github diye bir kalsör olacak. Onun içinde workflows adında bir klasör olacak onun içinde main.yml dosyası olacak.)  
+2)Reponun içine: .github/workflows/main.yml dosyası (buradaki "/" ların anlamı yeni klasör oluşturmak. Yani son durumda Baloncuk reponun içinde .github diye bir kalsör olacak. Onun içinde workflows adında bir klasör olacak onun içinde main.yml dosyası olacak.)  
 3)Alttaki kodlardan birini yapıştır. (Kodlar çalışıyor. Dikkatli bak =) )
 Her Gün Otomatik Etkinlik:
 # .github/workflows/main.yml
